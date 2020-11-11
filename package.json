@@ -1,0 +1,17 @@
+{
+  "name": "command-handler",
+  "version": "0.0.1",
+  "description": "A simple command handler made by Vi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
